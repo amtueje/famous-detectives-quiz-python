@@ -5,6 +5,8 @@ Daily challenge from Day 5 of the "100 Days of Code" course on Replit.
 
 This beginner Python problem demonstrates a fun and interactive way to use "if" statements. Users are asked a series of questions to identify which famous detective character they might be, based on their answers.
 
+The Replit '100 Days of Code' Python challenge can be found [here](https://replit.com/learn/100-days-of-python/hub).
+
 ## Problem Statement
 
 Ask users a series of questions to determine if they resemble one of the famous detective characters in the quiz. Use multiple "if" statements to check the user's responses to each question. If the user doesn't match any of the detective characters, provide a final message indicating that they may need to brush up on their knowledge of famous detectives from literature and TV.
